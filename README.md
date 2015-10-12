@@ -2,7 +2,7 @@
 
 How to use:
 
-Add imported github packages and customerService package to your GOPATH/src/ folder. 
+Add imported github packages and commonService package to your GOPATH/src/ folder. 
 
 Build and execute server.go
 
